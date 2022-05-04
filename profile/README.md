@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the Texas Tech GOogle Developer Student Club!
+Welcome to the Texas Tech Google Developer Student Club!
 
 ## Texas Tech Developer Student Club Projects
 
