@@ -1,3 +1,4 @@
+![gdsc-logo](./gdsc-light.png#gh-dark-mode-only)
 ## Hi there 👋
 
 Welcome to the Texas Tech Google Developer Student Club!
